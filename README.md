@@ -1,7 +1,10 @@
 ![](https://nirzak-streak-stats.vercel.app/?user=ductaip&theme=one_dark_pro&hide_border=false)<br/>
 
 # 💫 About Me:
-🚀 Passionate about building scalable and high-performance web applications.  <br>💡 Always exploring new technologies and improving my coding skills.  
+Hi there! I'm a passionate Backend Developer with a love for building scalable, secure, and efficient systems. <br/>
+I specialize in designing robust APIs, optimizing databases, and ensuring seamless integrations between services.
+
+
 
 
 
@@ -12,8 +15,10 @@
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)  ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) 
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=ductaip&theme=one_dark_pro&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ductaip&theme=one_dark_pro&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+![](https://github-readme-stats.vercel.app/api?username=ductaip&theme=one_dark_pro&hide_border=false&include_all_commits=false&count_private=false)<br/>
+
 ---
 [![](https://visitcount.itsvg.in/api?id=ductaip&icon=0&color=12)](https://visitcount.itsvg.in)
 
