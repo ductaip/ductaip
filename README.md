@@ -1,8 +1,10 @@
 ![](https://nirzak-streak-stats.vercel.app/?user=ductaip&theme=one_dark_pro&hide_border=false)<br/>
 
 # 💫 About Me:
-Hi there! I'm a passionate Backend Developer with a love for building scalable, secure, and efficient systems. <br/>
-I specialize in designing robust APIs, optimizing databases, and ensuring seamless integrations between services.
+Hi there! I'm a passionate Software Developer with a love for building scalable, secure, and efficient systems. <br/>
+I specialize in designing robust APIs, optimizing databases, and ensuring seamless integrations between services. <br/>
+I primarily work with NestJS and Next.js, leveraging these technologies to build high-performance, maintainable applications. <br/>
+From implementing server-side rendering (SSR) and static site generation (SSG) in Next.js to designing modular and efficient architectures in NestJS, I focus on maximizing performance and scalability in every project.
 
 
 
