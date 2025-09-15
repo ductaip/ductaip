@@ -1,21 +1,19 @@
 ![](https://nirzak-streak-stats.vercel.app/?user=ductaip&theme=one_dark_pro&hide_border=false)<br/>
 
-# 💫 About Me:
-Hi there! I'm a passionate Software Developer with a love for building scalable, secure, and efficient systems. <br/>
-I specialize in designing robust APIs, optimizing databases, and ensuring seamless integrations between services. <br/>
-I primarily work with NestJS and Next.js, leveraging these technologies to build high-performance, maintainable applications. <br/>
-From implementing server-side rendering (SSR) and static site generation (SSG) in Next.js to designing modular and efficient architectures in NestJS, I focus on maximizing performance and scalability in every project.
+"As a dedicated Software Engineer, my expertise lies in building highly performant, scalable, and resilient backend systems. I specialize in designing and implementing **microservices architectures** using **Golang**, leveraging its concurrency model to build robust and efficient distributed systems. My focus is on developing high-performance APIs, optimizing database interactions, and ensuring seamless service integrations that are built for growth and stability."
+
 
 
 
 
 
 # 💻 Tech Stack:
-![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)  ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) </br>
-![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) 
+![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
+![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white)  ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) </br>
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)  ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) 
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) 
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+
+
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ductaip&theme=one_dark_pro&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
