@@ -1,4 +1,3 @@
-![](https://nirzak-streak-stats.vercel.app/?user=ductaip&theme=one_dark_pro&hide_border=false)<br/>
 
 "As a dedicated AI Engineer, I specialize in building and deploying intelligent, scalable, and production-ready AI solutions. My expertise lies in designing end-to-end machine learning pipelines, from data preprocessing and model training to optimization and deployment as high-performance APIs. I am passionate about leveraging technologies like Python, TensorFlow, and PyTorch to bridge the gap between machine learning research and real-world applications, delivering tangible business value through data-driven systems."
 
@@ -19,10 +18,10 @@
 ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white) </br>
 ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white)  ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) 
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) 
+ 
 
-# 📊 GitHub Stats:
-
-![](https://github-readme-stats.vercel.app/api?username=ductaip&theme=one_dark_pro&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-stats.vercel.app/api?username=ductaip&theme=one_dark_pro&hide_border=false&include_all_commits=false&count_private=false)   
+![](https://nirzak-streak-stats.vercel.app/?user=ductaip&theme=one_dark_pro&hide_border=false)<br/>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=ductaip&icon=0&color=12)](https://visitcount.itsvg.in)
