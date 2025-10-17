@@ -21,7 +21,6 @@
  
 
 ![](https://github-readme-stats.vercel.app/api?username=ductaip&theme=one_dark_pro&hide_border=false&include_all_commits=false&count_private=false)   
-![](https://nirzak-streak-stats.vercel.app/?user=ductaip&theme=one_dark_pro&hide_border=false)<br/>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=ductaip&icon=0&color=12)](https://visitcount.itsvg.in)
