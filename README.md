@@ -65,8 +65,7 @@ I am an **Award-winning AI Researcher and Software Engineer** specializing in Hi
 ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) 
 
+
+![](https://github-readme-stats.vercel.app/api?username=ductaip&theme=one_dark_pro&hide_border=false&include_all_commits=false&count_private=false)   
 ---
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ductaip&theme=one_dark_pro&hide_border=false&include_all_commits=true&count_private=true&show_icons=true" alt="GitHub Stats" />
-</div>
